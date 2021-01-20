@@ -1,4 +1,4 @@
 # LiconPizza
 Página web para LiconPizza.
 
-https://licon-pizza.web.app/
+Desarrollo de una página web respnsiva con Css3, HTML5 y JavaScript.
